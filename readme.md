@@ -1,6 +1,6 @@
-# /r/Ubuntu Styles
+# /u/tur2rr2r styles
 
-These are the styles for [/r/ubuntu](http://reddit.com/r/ubuntu), the Ubuntu community on Reddit.
+These are the styles for various subreddits.
 
 ## Contributing
 
